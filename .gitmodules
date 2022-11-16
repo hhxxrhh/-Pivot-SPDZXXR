@@ -1,0 +1,6 @@
+[submodule "SimpleOT"]
+	path = SimpleOT
+	url = git@github.com:mkskeller/SimpleOT.git
+[submodule "mpir"]
+	path = mpir
+	url = git@github.com:wbhart/mpir.git
